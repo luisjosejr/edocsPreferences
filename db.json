@@ -1,0 +1,19 @@
+{
+    "preferences": {
+        "accountStatements": {
+            "type": "0"
+        },
+        "creditCardStatements": {
+            "type": "1"
+        },
+        "loanStatements": {
+            "type": "0"
+        },
+        "notices": {
+            "type": "0"
+        },
+        "taxDocuments": {
+            "type": "0"
+        }
+    }
+}
